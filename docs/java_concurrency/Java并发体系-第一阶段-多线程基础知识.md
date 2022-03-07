@@ -1636,7 +1636,7 @@ public class CASDemo {
 
 ## CAS三大问题
 
-- 如果 CAS 长时间一直不成功，会给 CPU 带来很大的开销，在Java的实现中是一只通过while循环自旋CAS获取锁。
+- 如果 CAS 长时间一直不成功，会给 CPU 带来很大的开销，在Java的实现中是一直通过while循环自旋CAS获取锁。
 
 - 只能保证一个共享变量的原子操作
 
