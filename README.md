@@ -3,9 +3,12 @@
 
 
 > 1. 文章会优先发布在[Github](https://github.com/youthlql/JavaYouth)，其它平台会晚一段时间，文章纠错与更新内容只在Github。如果Github很卡，可以在去[Gitee](https://gitee.com/youthlql/JavaYouth)克隆。
-> 2. 提供两种在线阅读方式：[电子书在线阅读](https://youthlql.gitee.io/javayouth)，[个人博客](https://imlql.cn/)浏览。
+> 2. 提供在线阅读方式：[个人博客](https://imlql.cn/)。原先的电子书已关闭
 > 3. 转载须知：转载请注明GitHub出处，让我们一起维护一个良好的技术创作环境。
 > 4. 如果你要提交 issue 或者 pr 的话建议到 [Github](https://github.com/youthlql/JavaYouth) 提交。笔者会持续更新，如果对你有所帮助，不妨[Github](https://github.com/youthlql/JavaYouth)点个**Star~**，你的**Star**是我创作的动力。
+> 5. 提供所有文章的本地版本【Typora可直接打开】
+>    1. 阿里云盘：https://www.aliyundrive.com/s/ZNAPANQg54A 
+>    2. 百度云盘：https://pan.baidu.com/s/1V20nKp4TQai-SVwMAfSZtQ  提取码：4ozs 
 
 
 
@@ -137,7 +140,7 @@
 
 
 
-## 源码【02.13更新】
+## 源码【03.19更新】
 
 
 
@@ -151,7 +154,7 @@
 
 [05.第5章-容器刷新流程](docs/spring-sourcecode-v1/05.第5章-容器刷新流程.md)
 
-
+[06.第6章-AOP的后置处理器和代理对象的创建](docs/spring-sourcecode-v1/06.第6章-AOP的后置处理器和代理对象的创建.md)
 
 # Netty
 
